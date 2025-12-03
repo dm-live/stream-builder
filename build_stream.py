@@ -1,4 +1,3 @@
-cat << 'EOF' > /workspace/scripts/build_stream.py
 import os
 import math
 import random
@@ -173,4 +172,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-EOF
